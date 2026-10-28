@@ -1,19 +1,13 @@
+vless://b9f5a731-ad7c-4185-9d86-89a4a043961d@185.233.131.236:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=v3p.sabermusic.ir#%3E%3E%40configV2rayNG%3A%3AXX
+vless://d342d11e-d224-4463-b982-532309285094@104.18.47.73:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&host=ccc.010304.xyz&type=ws&sni=ccc.010304.xyz#✰𝗝𝗼𝗶𝗻 ➠ @v2raymelliii✰
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#@DeltaKroneckerGithub
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@sw.golangwikito.cfd:443?security=reality&type=tcp&packetEncoding=xudp&sni=sw.golangwikito.cfd&fp=chrome&flow=xtls-rprx-vision&sid=a1037b25dcef6aa7&pbk=Kb8SsVPprs46BJSUNp5JvWLI-TFEiHmlBOXLQd37Glg&encryption=none#NL 🇳🇱 | @Raydikalx | 749CC9
-vless://1c7f675f-5923-463f-83fb-af4c898cecea@104.18.35.86:443?encryption=none&security=tls&sni=0Ee6wOQz4W8W0cDqiTgq6XZ-q0o9r6o9.merTEssWAgGEr08.WoRKErs.dEv&fp=unsafe&alpn=http%2F1.1&type=ws&host=0Ee6wOQz4W8W0cDqiTgq6XZ-q0o9r6o9.merTEssWAgGEr08.WoRKErs.dEv&path=%2FeyJqdW5rIjoiZWhuWFFGNWRISXBjSmRGWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#qoli_017
+vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?cs=semi-python&path=%2Ffp%3Dchrome&security=tls&encryption=none&fm=tlshello-0-len&insecure=0&host=ccc.010304.xyz&fp=unsafe&type=ws&allowInsecure=0&sni=ccc.010304.xyz#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#@DeltaKroneckerGithub
+vless://d342d11e-d224-4463-b982-532309285094@104.26.4.2:443?encryption=none&type=ws&path=%2F&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443?#@DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#@DeltaKroneckerGithub
-vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/#Channel : @Daily_Configs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:8080#@DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.170:443#@DeltaKroneckerGithub
-vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443?path=/fp=chrome&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#Tel-@ProxyMtAlpha🐮 2
-vless://d342d11e-d224-4463-b982-532309285094@172.66.0.162:443?encryption=none&type=ws&path=%2F&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#@DeltaKroneckerGithub
-vless://2ea2719c-23e1-4cde-b192-c8652d55d9e5@104.18.221.221:443?encryption=none&security=tls&sni=cfnode-11ivy8.pages.dev&type=ws&host=cfnode-11ivy8.pages.dev&path=%2Fwsfp%3Dchrome#qoli_049
-vless://44f06ad1-982c-4e03-849f-899c1c8dc14f@vl.cocopon.top:443?encryption=none&security=tls&sni=vl.cocopon.top&type=ws&host=vl.cocopon.top&path=%2F#@DeltaKroneckerGithub
-vless://d342d11e-d224-4463-b982-532309285094@104.18.47.73:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2F#@DeltaKroneckerGithub
-vless://d342d11e-d224-4463-b982-532309285094@104.26.4.2:443?encryption=none&security=tls&sni=ccc.010304.xyz&fp=chrome&type=ws&host=ccc.010304.xyz&path=%2Ffp%3Dchrome#qoli_103
+trojan://humanity@172.67.203.46:443?type=ws&security=tls&path=%2Fassignment&host=www.cordweave.com&sni=www.cordweave.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#0152
 vless://f27b6f65-6e59-4f89-b929-afa397ca587f@155.212.240.10:443?encryption=none&fp=firefox&host=n.bitpulse.me&path=/019bcbad-3813-7cce-8786-3ac0e418f128?ed=2560&security=tls&sni=n.bitpulse.me&type=ws#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#@DeltaKroneckerGithub
-vless://a05fe72d-c086-4536-b622-d3f8a0267804@172.64.150.200:443?&security=tls&fp=chrome&encryption=none&sni=gy-cffc2-ch-node-lb5p6r204ts3xuoz.lancelot.dpdns.org&type=ws&headerType=&host=gy-cffc2-ch-node-lb5p6r204ts3xuoz.lancelot.dpdns.org&path=%2Ffilm%2Fproxyip%3DProxyIP.KR.CMLiussss.net%3Fed%3D2560#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.178:8080#@DeltaKroneckerGithub
-vless://98a24806-141a-43d3-b094-bd66c4eb93b8@198.16.113.222:8443?&security=reality&flow=xtls-rprx-vision&pbk=8NkTRxC5Q7bptx-8ADobkuhPK-ZN0kEEbzv6tCFGMzE&sid=69984b9e02545831&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#@DeltaKroneckerGithub
+vless://d342d11e-d224-4463-b982-532309285094@104.18.37.247:443?security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2F&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtcG9seTEzMDU6b1pJb0E2OVE4eWhjUVY4a2EzUGEzQQ==@82.38.31.28:8080?type=tcp&amp;security=none&amp;headerType=none#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20-%20Unknown%20%7C%2082.38.31.28%3A8080%202
