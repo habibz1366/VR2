@@ -1,1 +1,2 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND1ANTcuMTI5Ljc2LjEyODoxOTk5OQ#SuperVPN%20DE-Frankfurt%20%23211%20%5BSS%5D
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.226:80?type=grpc&security=tls&fp=firefox&sni=68r2nrw6avta71yq.cdn.cachefleet.com&serviceName=qi8ws15c7jv5q2fa#@DeltaKroneckerGithub
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@200.102.183.226:80/?type=grpc&encryption=none&flow=&serviceName=qi8ws15c7jv5q2fa&security=tls&sni=68r2nrw6avta71yq.cdn.cachefleet.com&allowInsecure=1&fp=chrome# 🇫🇷 14@exclavevpn
